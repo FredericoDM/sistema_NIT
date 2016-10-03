@@ -1,0 +1,22 @@
+{
+  "name": "my_package",
+  "version": "1.0.0",
+  "description": "sistema de gerenciamento de patentes do IFPE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredquim/sistema_NIT.git"
+  },
+  "keywords": [
+    "NIT"
+  ],
+  "author": "Frederico Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredquim/sistema_NIT/issues"
+  },
+  "homepage": "https://github.com/fredquim/sistema_NIT#readme"
+}
